@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+}
+
+.padd {
+    padding-left: 21px;
+}
+
+.Navbar {
+    display: flex;
+    border-bottom: 2px solid grey;
+    margin-top: 8px;
+    padding: 8px;
+    font-size: 14px;
+    height: 2%;
+    width: 100%;
+}
+
+.Secondrow {
+    display: flex;
+    border-bottom: 2px solid grey;
+    height: 96px;
+    /* box-sizing: border-box; */
+    margin: auto;
+    /* display: block; */
+    /* padding: 8px; */
+    /* display: inline-block; */
+}
+
+.ebayprop {
+    width: 114px;
+    padding-left: 68px;
+    height: 116px;
+    position: relative;
+    bottom: 10px;
+}
+
+.secondrowdiv2 {
+    padding-left: 13px;
+    padding-top: 32px;
+    width: 80px;
+    margin-right: 1%;
+}
+
+.arrow {
+    display: inline-block;
+    margin: 0px 5px;
+}
+
+.secondrow searchka_p {
+    padding-top: 27px;
+    padding-left: 16px;
+
+}
+
+.arrow_prop {
+    display: inline;
+    position: relative;
+    top: 10px;
+}
+
+.Thirdclass {
+    border-bottom: 2px solid black;
+    height: 27px;
+    display: flex;
+    padding-top: 9px;
+    font-size: 17px;
+}
+
+.Forthrow {
+    width: 100%;
+    display: flex;
+    height: 285px;
+}
+
+.left {
+    padding: 10px 30px;
+    width: 22%;
+    background-color: #F7F7F7;
+}
+.right{
+    width: 78%;
+    background-color: #F7F7F7;
+}
+.Fifthrow {
+    display: flex;
+    height: 96px;
+}
+
+.Sixrow {
+    height: 220px;
+    width: 100%;
+    margin-bottom: 75px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: ;
+}
+
+.margin {
+    margin: 45px 30px;
+}
+
+.Navbar bottombutt_p {
+    position: absolute;
+    top: 201px;
+    left: 1259px;
+}
+
+.bottombutt_p {
+    position: absolute;
+    top: 201px;
+    left: 1259px;
+}
+
+.button {
+    width: 86px;
+    height: 30px;
+    background-color: #fc8600;
+    border: none;
+}
+
+.buttonka_atag {
+    width: 30px;
+    color: #ffffff;
+    text-decoration: none;
+}
